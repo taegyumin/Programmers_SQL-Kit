@@ -1,2 +1,2 @@
 # Programmers_SQL-Kit
-Programmers_코딩테스트연습_SQL고득점Kit
+Programmers(프로그래머스) - 코딩테스트연습 - SQL 고득점 Kit 문제 풀기
