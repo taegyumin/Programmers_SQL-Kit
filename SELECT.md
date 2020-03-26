@@ -4,7 +4,7 @@
 [문제 설명](https://programmers.co.kr/learn/courses/30/lessons/59034)
 
 ### 나의 답안
-	SELECT * FROM ANIMAL_INS ORDER BY ANIMAL_ID ASC;
+	select * FROM ANIMAL_INS ORDER BY ANIMAL_ID ASC;
 	
 ## 역순 정렬하기
 [문제 설명](https://programmers.co.kr/learn/courses/30/lessons/59035)
